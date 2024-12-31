@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WishListDB</string>
+    <string name="home_screen_title">My Wishlist</string>
+    <string name="add_wish_title">Add Wish</string>
+    <string name="update_wish_title">Update Wish</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+</resources>
